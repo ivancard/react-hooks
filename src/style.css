@@ -1,0 +1,21 @@
+body {
+    padding: 70px;
+    color: wheat;
+    background-color: #211d1a;
+}
+
+p{
+    cursor: pointer;
+    margin: 0;
+}
+
+.list-group-item{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #c0c0c0;
+}
